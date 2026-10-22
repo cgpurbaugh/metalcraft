@@ -19,7 +19,7 @@
    "fetch_from": null,
    "fetch_if_empty": 0,
    "fieldname": "coc_batch",
-   "fieldtype": "Data",
+   "fieldtype": "Text",
    "hidden": 0,
    "idx": 55,
    "ignore_user_permissions": 0,
